@@ -27,9 +27,9 @@ public class swap_5_ways {
 
         // Logic_4 // use bitwise operator Xor 00=0 10=1 01=1 11=0
 
-     /* a = a^b; // this will convert decimal to binary 
-        b = a^b;
-        a = a^b; */
+       // a = a^b; // this will convert decimal to binary 
+       // b = a^b;
+       // a = a^b;
  
         System.out.println("After the swapping the number " + a +" ," + b);
     }
